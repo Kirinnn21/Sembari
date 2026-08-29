@@ -4,3 +4,4 @@ Website beli barang sembako secara sederhanda agar dapat memudahkan pembeli dan 
 
 ### Tech Stack:
 -HTML, CSS, Javascript
+-Proyek ini dikembangkan dengan framework Next.js
